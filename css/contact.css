@@ -1,0 +1,75 @@
+.ConactHr {
+    border:0;
+    margin:1;
+    width:100%;
+    height:4px;
+    background:#FFA600;
+}
+
+.ConatctH1{
+    text-align: center;
+    font-size: 90px;
+
+}
+.contact_header{
+
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+}
+
+.map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+.container-fluid {
+
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.HomeAdressHours {
+    font-size: 40px;
+    text-align: left;
+    color:#292929;
+}
+
+.list-unstyled {
+    text-align: left;
+
+}
+
+.menuhours {
+    padding-top: 1px;
+
+}
+
+.DaysOftheWeek {
+    padding: 5px;
+    font-weight:500;
+    font-size: 25px;
+
+}
+
+.Adress {
+    font-weight:500;
+    font-size: 25px;
+}
+
+.contact-title {
+    font-size: 35px;
+    color: #9a7125;
+    padding-top: 20px;
+}
