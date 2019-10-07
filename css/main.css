@@ -11,13 +11,17 @@ body {
 }
 
 .bg-dark {
-	background-color:rgba(78, 78, 78, 0.68) !important;
+	background-color:#001846 !important;
 }
 
 .navbar-dark .navbar-brand {
 	color: #ffa600;
-    font-size: 2em;
+    font-size: 3em;
 
+}
+
+.navtogglemenu{
+    font-size: 50px;
 }
 
 .navbar-dark .navbar-brand:hover {
@@ -58,13 +62,14 @@ body {
     font-weight: bold;
     padding-bottom: 10px;
     color: #FFA600;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .MenuFood {
     font-weight: bold;
     padding-top: 10px;
-    font-size: 18px;
+    font-size: 20px;
+    color:#000000;
 }
 
 .MenuSub {
@@ -102,9 +107,9 @@ body {
 
 .navtogglemenu a{
 
-    color: #FFA600;
-    font-weight: bold;
-    font-size: 24px;
+    color: #001846;
+    font-weight: bolder;
+    font-size: 34px;
 
 }
 
@@ -134,3 +139,43 @@ body {
 
     font-size: 20px;
 }
+
+/*This is the start of the footer*/
+
+.footer-basic-centered {
+    background-color: #292c2f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    font: normal 18px sans-serif;
+    padding: 45px;
+    margin-top: 80px;
+}
+
+footer {
+    display: block;
+}
+
+.footer-company-motto{
+
+    color: white;
+    font-family: inherit;
+    font-size: 25px;
+}
+
+.footer-company-name{
+    color: white;
+    font-family: inherit;
+}
+
+.a-footer-tag{
+    color: white;
+    margin: 10px;
+}
+
+
+
+
+
+
