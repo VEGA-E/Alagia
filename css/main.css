@@ -11,7 +11,7 @@ body {
 }
 
 .bg-dark {
-	background-color:#001846 !important;
+	background-color:rgba(0, 24, 70, 0.85) !important;
 }
 
 .navbar-dark .navbar-brand {
@@ -37,7 +37,7 @@ body {
 }
 
 .food {
-	background-image: url(../img/BL8A3052.jpg);
+	background-image: url(../img/foodmenu.jpg);
 	background-attachment: fixed;
 	background-position: center;
 	background-size:cover;
